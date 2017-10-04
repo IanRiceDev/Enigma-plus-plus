@@ -2,5 +2,5 @@
 ### Project status: unfinished
 ### Bugs knowen
 * Everything
-## Goal
+## Goal(s)
 To make a uncrackable cipher.
