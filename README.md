@@ -1,4 +1,4 @@
 # Enigma-plus-plus
-## Project status: unfinished
+### Project status: unfinished
 ### Bugs knowen
 * Everything
